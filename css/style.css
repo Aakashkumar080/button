@@ -1,0 +1,76 @@
+div{
+    margin: 0 auto;    
+}
+
+.box{
+    background-color:black;
+    height: 300px;
+    width: 500px;
+    margin: 200px 400px;  
+    text-align: center;
+
+}
+
+
+.button1{
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+    padding: 12px 24px;
+    border-radius:8px;
+    text-align: center;
+    margin:100px 15px 20px 5px;
+    font-size: x-small;
+    }
+
+.button2{
+    background-color:lightseagreen;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    border-radius: 40px;
+    border: none;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: x-small;
+}
+
+.button3{
+    background-color: deepskyblue;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: x-small;
+}
+
+.button4{
+    background-color:gold;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px 15px 20px 5px;
+    font-size: x-small;
+}
+
+.button5{
+    background-color: black;
+    color: purple;
+    border: 2px solid purple;
+    padding: 12px 24px;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: x-small;
+}
+
+.button6{
+    background-color: black;
+    color: green ;
+    border: 2px solid green;
+    padding: 12px 24px;
+    border-radius:40px;
+    text-align: center;
+    font-size: x-small;
+}
